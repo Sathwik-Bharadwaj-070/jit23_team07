@@ -1,0 +1,9 @@
+flask
+flask-cors
+pyserial
+opencv-python
+scikit-learn
+numpy
+pandas
+joblib
+matplotlib
