@@ -1,0 +1,17 @@
+:root{
+
+--primary:#16a34a;
+
+--secondary:#22c55e;
+
+--light:#f7fff8;
+
+--dark:#111827;
+
+--glass:rgba(255,255,255,.55);
+
+--shadow:0 20px 40px rgba(0,0,0,.08);
+
+--radius:25px;
+
+}

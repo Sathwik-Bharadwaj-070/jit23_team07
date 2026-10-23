@@ -1,0 +1,11 @@
+tensorflow
+
+# Optional - only needed if you want to train/use the CNN crop classifier
+# (image_processing/train_cnn_classifier.py). The rest of the app works
+# fine without this.
+#
+# IMPORTANT: TensorFlow does not yet officially support Python 3.14.
+# If `python --version` shows 3.14, this install will likely fail with
+# "No matching distribution found for tensorflow". You'll need a separate
+# Python 3.10-3.13 install for this specific feature - see the CNN section
+# in the main README.md for details.
